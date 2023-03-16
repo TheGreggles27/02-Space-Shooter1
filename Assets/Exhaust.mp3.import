@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Exhaust.mp3-2be4828fcca6b227b616d47ce38c7847.mp3str"
+
+[deps]
+
+source_file="res://Assets/Exhaust.mp3"
+dest_files=[ "res://.import/Exhaust.mp3-2be4828fcca6b227b616d47ce38c7847.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
